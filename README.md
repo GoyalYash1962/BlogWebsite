@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/55345482/175812542-2e77db72-ce5c-440c-95bb-464181d4e9e7.png)
 
-# Blogs after bring composed their snippets are posted onto the home page with the option to read them fully
+# When Blogs are composed their snippets are posted onto the home page with the option to read them fully
 
 ![image](https://user-images.githubusercontent.com/55345482/175812493-1740097c-b166-4d70-a236-be1ea7c51f2d.png)
 
